@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/Kaneki1416/LEGENDBOT/",
+  "website": "https://github.com/Kaneki1416/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -20,67 +20,67 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "ᴛᴏᴜᴋᴀ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "ᴛᴏᴜᴋᴀ is Online",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@AboutKenKaneki",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@AboutKenKaneki",
       "required": false
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl",
-      "value": "Boy",
+      "value": "Girl",
       "required": false
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
+      "value": "https://telegra.ph/file/2e0db7eb1049f6109d409.jpg",
       "required": false
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
+      "value": "https://telegra.ph/file/71d85bebf14823103b201.jpg",
       "required": false
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5d129dcb076495dd2c585.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/371073350a884d03791d0.jpg",
       "required": false
     },
     "ALIVE_EMOJI": {
@@ -90,7 +90,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "𝙸 𝚊𝚖 ᴛᴏᴜᴋᴀ.",
       "required": true
     },
     "PM_PIC": {
